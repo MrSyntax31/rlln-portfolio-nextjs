@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import AboutImg from 'https://firebasestorage.googleapis.com/v0/b/conquerror-development.appspot.com/o/IMG_2939%205R.jpg?alt=media&token=e5e0a7ca-3a56-4088-be24-c947a5ab24e9';
+import AboutImg from '../public/assets/about.jpg';
 
 const About = () => {
   return (
